@@ -1,0 +1,5 @@
+{
+  "name": "Excel Data Grouper",
+  "description": "Import and group data from two different Excel reports based on user and device information.",
+  "requestFramePermissions": []
+}
